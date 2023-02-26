@@ -7,6 +7,8 @@ ARITHMETIC EXPRESSIONS
 - Unary Operations
 - Ligical operations
 
-- Sub-topi
+1.1. SUB-TOPIC.
+MODULUS
 Using Modulus '%' in C programing Language
+It returns the remaining value of two integers divided. 
 

@@ -12,3 +12,11 @@ MODULUS
 Using Modulus '%' in C programing Language
 It returns the remaining value of two integers divided. 
 
+
+1.2. SUB-TOPIC
+
+ARRAYS AND POINTERS
+- Declaring and initializing Pointers
+- Declaring and initializing Arrays
+- Type and Memory (Sizeof())
+
